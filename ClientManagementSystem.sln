@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientManagementSystem", "ClientManagementSystem\ClientManagementSystem.csproj", "{A3F3353E-0A30-48F5-879E-05A9AACDE1FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseManager", "DatabaseManager\DatabaseManager.csproj", "{3E60EDD2-B7EB-4A68-A010-9B1442DD523C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A3F3353E-0A30-48F5-879E-05A9AACDE1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F3353E-0A30-48F5-879E-05A9AACDE1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F3353E-0A30-48F5-879E-05A9AACDE1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E60EDD2-B7EB-4A68-A010-9B1442DD523C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E60EDD2-B7EB-4A68-A010-9B1442DD523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E60EDD2-B7EB-4A68-A010-9B1442DD523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E60EDD2-B7EB-4A68-A010-9B1442DD523C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
